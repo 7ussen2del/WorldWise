@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "e69a",
+      "cityName": "Markaz Bani Suwayf",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-03-19T15:06:21.288Z",
+      "notes": "ضض",
+      "posittion": {
+        "lat": "29.01653683167423",
+        "lng": "31.072236151010713"
+      }
+    },
+    {
+      "id": "4229",
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "PL",
+      "date": "2025-03-19T22:24:25.046Z",
+      "notes": "",
+      "posittion": {
+        "lat": "52.29779886885698",
+        "lng": "21.027438344163112"
+      }
+    },
+    {
+      "id": "8d28",
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-03-19T22:29:04.909Z",
+      "notes": "",
+      "posittion": {
+        "lat": "29.914162433530407",
+        "lng": "31.16343274536674"
+      }
+    },
+    {
+      "id": "7b30",
+      "cityName": "Zollikon",
+      "country": "Switzerland",
+      "emoji": "CH",
+      "date": "2025-03-29T13:12:59.040Z",
+      "notes": "",
+      "posittion": {
+        "lat": "47.33881317025954",
+        "lng": "8.581437652124563"
+      }
+    },
+    {
+      "id": "e57c",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-03-29T13:14:19.207Z",
+      "notes": "",
+      "posittion": {
+        "lat": "40.40090932495301",
+        "lng": "-3.683020361398016"
+      }
+    }
+  ]
+}
