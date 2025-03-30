@@ -2,13 +2,17 @@
   "name": "wordwise",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://7ussen2del.github.io/WorldWise/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server --watch data/cities.json --port 9000 "
+    "server": "json-server --watch data/cities.json --port 9000",
+    "predeploy": "npm run build",
+    "deploy": "npx gh-pages -d dist"
+
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3",
